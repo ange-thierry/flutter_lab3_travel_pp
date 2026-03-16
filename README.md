@@ -33,7 +33,7 @@ https://github.com/ange-thierry/flutter_lab3_travel_pp/blob/main/Demo/Demo.mp4
 
 | Booking                                                                                                    | Booking 2                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ![Booking](https://raw.githubusercontent.com/ange-thierry/flutter_lab3_travel_pp/main/Demo/Booking1.png)   | ![Booking2](https://raw.githubusercontent.com/ange-thierry/flutter_lab3_travel_pp/main/Demo/Booking2.png)   |
+| ![Booking](https://raw.githubusercontent.com/ange-thierry/flutter_lab3_travel_pp/main/Demo/booking1.png)   | ![Booking2](https://raw.githubusercontent.com/ange-thierry/flutter_lab3_travel_pp/main/Demo/booking2.png)   |
 
 ---
 
