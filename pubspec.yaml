@@ -1,0 +1,29 @@
+name: travel_app
+description: Wanderlust — A hard-coded multi-screen Travel App UI built for Flutter Lab 3B.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/santorini.jpg
+    - assets/images/bali.jpg
+    - assets/images/maldives.jpg
+    - assets/images/patagonia.jpg
+    - assets/images/kyoto.jpg
+    - assets/images/swiss_alps.jpg
